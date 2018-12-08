@@ -1,0 +1,18 @@
+{
+  "cordova-admob-sdk": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-admob-sdk"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-audioinput": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-audioinput"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
